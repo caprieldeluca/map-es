@@ -15089,7 +15089,7 @@
         }
     },
     "glyphs": "https://caprieldeluca.github.io/mapas/osm-es/glyphs/{fontstack}/{range}.pbf",
-    "sprite": "https://raw.githubusercontent.com/caprieldeluca/map-es/refs/heads/main/styles/osm-es/sprites/sprite",
+    "sprite": "https://caprieldeluca.github.io/mapas/osm-es/sprites/sprite",
     "bearing": 0,
     "pitch": 0,
     "center": [
